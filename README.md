@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in CyberSecurity and hacking enthusiast. 
 
-- 📫 How to reach me **eliyaballout@gmail.com**
+- 📫 How to reach me: **eliyaballout@gmail.com**
 
 <br>
 
