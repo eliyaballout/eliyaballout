@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **eliyaballout@gmail.com**
 
-- 🔗 Connect with me on <a href="www.linkedin.com/in/eliya-ballout/">linkedin</a>
+- 🔗 Connect with me on <a href="https://www.linkedin.com/in/eliya-ballout/">linkedin</a>
 
 <br>
 
