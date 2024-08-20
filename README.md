@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Eliya Ballout</h1> <br>
 
 
-- 🌱 I’m currently learning Bachelor's degree in information systems engineering.
+- 🌱 B.Sc in Software & Information Systems Engineering, information security.
 
 - 👀 I’m interested in CyberSecurity and hacking enthusiast. 
 
